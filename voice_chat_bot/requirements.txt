@@ -1,0 +1,4 @@
+playsound
+gtts
+pyttsx3
+SpeechRecognition
